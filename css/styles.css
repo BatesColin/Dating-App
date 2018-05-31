@@ -1,0 +1,41 @@
+#krusty {
+  display: none;
+}
+#rainier-wolfcastle {
+  display: none;
+}
+#Lenny-Leonard {
+  display: none;
+}
+#Clancy-Wiggum {
+  display: none;
+}
+#Seymour-Skinner {
+  display: none;
+}
+#Moe-Szyslak {
+  display: none;
+}
+#Lurleen-Lumpkin {
+  display: none;
+}
+#Patty-Bouvier {
+  display: none;
+}
+#edna-krabappel {
+  display: none;
+}
+#ralph-wiggum {
+  display: none;
+}
+
+body {
+  background-image: url(../img/1.jpg);
+}
+
+div h1 {
+  color: yellow;
+}
+div form h2 {
+  color: pink;
+}
